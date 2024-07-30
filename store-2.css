@@ -1,0 +1,282 @@
+* {
+    margin:0px ;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.look{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+   align-items: center;
+}
+
+.look2 a{
+    padding: 0 200px;
+    font-size: 18px;
+    color: rgb(114, 118, 114);
+    font-weight: bolder;
+
+}
+.look2 a:hover{
+    color: #9c9999;
+}
+
+.lookg{
+    padding: 0 170px;
+    display: flex;
+    /* width: 400px; */
+   
+}
+
+.look3{
+    padding: 0 20px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.look3:hover{
+    color: #7b7979;
+
+}
+
+.look4{
+    padding: 0 20px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.look4:hover{
+        color: #7b7979;
+
+}
+    
+
+.look5{
+
+    padding: 0 20px;
+    font-size: 12px;
+    cursor: pointer;
+
+}
+.look5:hover{
+    color: #7b7979;
+
+}
+
+header {
+        background-color: rgb(88, 97, 78);
+        display: flex;
+        justify-content: space-between;
+       
+
+}
+header nav {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    /* margin: 20px  auto; */
+    background-color: rgb(88, 97, 78);
+    padding : 40px 10px;
+    margin: 0 150px;
+
+    
+}
+
+header nav ul li {
+display: inline-block;
+ margin: 0 20px ;
+ padding: 20px 0; 
+  /* margin: 20px  auto;  */
+
+}
+header nav ul li a {
+    color: rgb(155, 158, 150);
+    text-transform: uppercase;
+ 
+
+    
+}  
+header nav ul li a:hover {
+    color: white;
+}
+
+section{
+    background-color: rgb(184, 178, 178);
+   
+}
+
+.div2 h2{
+    padding: 50px 200px 20px;
+    color: #6b6969;
+}
+
+.div2 img{
+    padding: 0 200px;
+    box-shadow: 0 5px 25px rgba( 1 1 1 /15);
+    
+}
+
+.div6{
+    padding: 20px 200px;
+}
+
+.div6 h2{
+    color: #6b6969;
+    line-height: 40px;
+}
+
+.div6 p{
+    color: #615e5e;
+    line-height: 25px;
+}
+.div8{
+    padding: 20px 200px;
+
+}
+
+.div8 h2{
+    color: #6b6969;
+    line-height: 40px;
+
+}
+
+.div8 p{
+    color: #615e5e;
+    line-height: 25px;
+
+}
+.div8{
+    padding: 20px 200px;
+}
+   
+
+.div5{
+    padding: 20px 200px;
+}
+
+.div5 h2{
+    color: #6b6969;
+    line-height: 40px;
+
+}
+
+.div5 p{
+    color: #615e5e;
+    line-height: 25px;
+
+}
+
+footer{
+    background-color: gray;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.main-3 i{
+    padding: 5px;
+    color: blue;
+}
+
+
+.main-7{
+    color: #d2c0c0;
+}
+
+
+.main-8{
+    background-color: #cfc5c5;
+    height: 50px;
+    width: 100%;
+}
+
+h3{
+
+    
+    color: rgb(88, 97, 78);
+    text-align: center;
+    
+     }
+    
+    
+    fieldset{
+        background-color: rgb(59, 31, 199);
+        text-align: center;
+       /* margin: 10px 100px 0 0 ; */
+    
+    
+    }
+       
+    
+    
+     .main-9{
+        display: flex;
+        
+       border: 2px solid  rgb(248, 247, 247);
+       /* font-size: 12px; */
+       column-count: 3;
+       background-color: rgb(222, 212, 212);
+       text-align: justify;
+       padding: 30px 100px;
+       column-rule: double 5px green;
+       justify-content: center
+      
+      
+    
+     }
+    
+    .store{
+        margin: ;
+        column-rule: double 5px green;
+        line-height: 25px;
+        width: 30%;
+        padding: 0 0 0 15px;
+      
+    /*    
+        background-color: aqua; */
+    }
+    
+    
+    
+    
+    .store1{
+        /* margin: 30px 400px 0 0; */
+        font-size:12px ;
+        /* background-color: burlywood; */
+        width: 30%;
+        line-height: 25px;
+        padding: 0 0 0 15px;
+    }
+    
+    .store6 {
+        margin: 5px  50px 0 0;
+        font-size: 12px ;
+        /* background-color: chartreuse; */
+        width: 30%;
+        line-height: 25px;
+        padding: 0 0 0 15px;
+    }
+    
+    .main-4{
+        margin: 30px 0;
+        background-color: #676060;
+        padding: 10px 0;
+        border-radius: 10px;
+        width: 200px;
+        color: white;
+    
+    }
+    .main-4 a{
+        color: white;
+        padding: 10px;
+    }
+    
+    .main-4:hover{
+        background-color: rgb(112, 110, 107);
+    }
+
+    
